@@ -1,0 +1,105 @@
+body {
+    font-family: Calibri;
+background-color: rgb(228, 197, 158);
+ background-size: contain;
+}
+
+
+#author {
+color: rgb(250, 250, 250);
+background-color: blue;
+border-radius: 10px;
+padding: 15px;
+text-decoration: 0;
+margin-left: 40px;
+position: avto;
+
+}
+
+#author:hover{
+box-shadow: 10px 10px 10px 0 rgb(31, 31, 31);
+}
+
+#h {
+color: rgb(0, 0, 0);
+background-color:rgb(240, 181, 20);
+border-radius: 10px;
+padding: 15px;
+text-decoration: 0;
+margin-left: 50px;
+position:avto;
+}
+
+#h:hover{
+box-shadow: 10px 10px 10px 0 rgb(31, 31, 31);
+}
+
+#s {
+color: rgba(255, 255, 255, 0.87);
+background-color: rgb(35, 150, 0);
+border-radius: 10px;
+padding: 15px;
+text-decoration: 0;
+margin-left: 50px;
+margin-top: 5px;
+position: avto;
+}
+
+#s:hover{
+box-shadow: 10px 10px 10px 0 rgb(31, 31, 31);}
+
+#v {
+color: rgb(255, 242, 64);
+background-color: rgb(211, 24, 24);
+border-radius: 10px;
+padding: 15px;
+text-decoration: 0;
+margin-left: 50px;
+margin-top: 5px;
+position:avto;
+}
+
+#v:hover{
+    box-shadow: 10px 10px 10px 0 rgb(31, 31, 31);
+}
+
+h1 {
+color: blue;  
+font-size: 30px; 
+position:static;
+}
+h2{
+ color:rgb(240, 181, 20) ;
+ font-size: 30px;
+}
+h3 {
+color:rgb(56, 175, 20);
+font-size: 30px;
+}
+h4{
+ color: rgb(211, 24, 24);
+ font-size: 30px;
+}
+
+  
+ img {
+    width: 600px;
+    height: 480px;
+}
+
+#foto {
+    width: 622px;
+    height: 750px;
+}
+#fo {
+   width: 700px;
+    height: 550px;
+}
+#a {
+ width:605px;
+    height:355px;
+}
+a {
+font-size:x-large;
+}
+
